@@ -1,0 +1,47 @@
+body
+{
+  /*background-image:url("pic1.jpeg"),url("pic2.jpeg"),url("pic3.jpeg"),url("pic4.jpeg");
+  background-size: 50%;
+  background-repeat:repeat-y;
+  background-position:center;
+ */
+ background-color:	#add8e6;
+}
+.div1
+{
+
+  height: 5%;
+  width: 100%;
+  background-color:		#778899;
+}
+table
+{
+  border:10px black;
+}
+
+.img
+{
+  height:10%;
+  width:40%;
+  background-position: center;
+
+}
+
+.div2
+{
+  height:50%;
+  width: 100%;
+  background-position: right;
+}
+td
+{
+  width:5%;
+  background-color: 	#fffafa;
+
+}
+.td1
+{
+  width:50%;
+  background-color: #add8e6;
+
+}
